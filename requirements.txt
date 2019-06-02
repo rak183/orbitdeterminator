@@ -6,6 +6,7 @@ numpy==1.14.0
 pluggy==0.6.0
 py==1.5.2
 pykep==2.1
+pymap3d==1.8.0
 pyparsing==2.2.0
 pytest==3.4.0
 python-dateutil==2.6.1
